@@ -1,7 +1,5 @@
 # RIFT — помощник для Path of Exile 1
 
-Сборка на основе [Exile-UI / Lailloken](https://github.com/Lailloken/Exile-UI): Act-Tracker, схемы Act-Decoder, заметки и русский интерфейс.
-
 ## Скачать
 
 **[Скачать полный проект RIFT.zip](https://github.com/Qwecxz05/RIFT/raw/refs/heads/main/RIFT.zip)**
